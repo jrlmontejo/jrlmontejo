@@ -4,7 +4,8 @@ I am a software engineer at White Widget, an award-winning tech agency based in 
 
 I contribute to open-source whenever I can.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaye-ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaye-ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaye-ww)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Identities
 
