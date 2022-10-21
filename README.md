@@ -7,7 +7,7 @@ I contribute to open-source whenever I can.
 ### Stats
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaye-ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-![My Stats](https://github-readme-stats.vercel.app/api?username=jaye-ww&count_private=true&show_icons=true&theme=dracula)
+![My Stats](https://github-readme-stats.vercel.app/api?username=jrlmontejo&count_private=true&show_icons=true&theme=dracula)
 
 ### Identities
 
